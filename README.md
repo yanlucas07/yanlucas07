@@ -1,23 +1,13 @@
-<h2 align="left">Cursando Ciência Da Computação no Uniceub
+## Olá, sou o Yan Lucas e estou cursando Ciência Da Computação no UniCeub
 
-###
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-correa-b7b4813ab/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yan.lucas07/)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://github.com/user-attachments/assets/a938e1d2-5796-4d35-99fa-1e620567810f" height="30" alt="dev-c++ logo"  />
-  <img width="12" />
-  <img src="https://github.com/user-attachments/assets/9d76d706-ae37-4c50-b145-68d966bed1e3" height="30" alt="postgreesql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+## Tecnologias e Linguagens que estou estudando
+<div style="display: inline_block"><br/>
+  <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
 </div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/yan-correa-b7b4813ab/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
